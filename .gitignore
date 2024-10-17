@@ -1,0 +1,60 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Test and coverage
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+.dmypy.json
+
+# C extensions
+*.so
+
+# pyenv
+.python-version
+
+# local env files
+.env
+.env.local
+.env.test
+.env.production
+
+# pyre type checker
+.pyre/
